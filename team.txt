@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-=======
-Maryanne
-Elizabeth
-Suhas 
->>>>>>> refs/remotes/origin/main
-=======
 Mason
 Maryanne
 Elizabeth
 Suhas 
->>>>>>> 5d621e45a5c7e0ec2f4932701767c7b872ecc9c2
+
